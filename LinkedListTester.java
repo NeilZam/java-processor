@@ -1,4 +1,4 @@
-package assingment3;
+package processor;
 
 class LinkedListTester {
 	public static void main(String[] args) {
