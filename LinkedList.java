@@ -1,4 +1,4 @@
-package assingment3;
+package processor;
 import java.io.*;
 import java.util.Scanner;
 class LinkedList {
