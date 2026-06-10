@@ -1,4 +1,4 @@
-package assingment3;
+package processor;
 
 class Node {
 	private final int object;
